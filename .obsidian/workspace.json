@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -163,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74899569af7f2df3",
+  "active": "f4a5036b380a0a04",
   "lastOpenFiles": [
+    "무제 폴더",
     "마크다운 연습.md",
     "create a link.md",
     "Welcome.md",
