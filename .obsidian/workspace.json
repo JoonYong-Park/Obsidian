@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a35b1d465601678d",
+        "id": "d3a499682ad6318c",
         "type": "tabs",
         "children": [
           {
-            "id": "74899569af7f2df3",
+            "id": "4275ee1013495d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운 연습.md",
+                "file": "AI/RAG/RAG - LLM의 한계를 극복하는 혁신적인 기술.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "641a5e790525f474",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마크다운 연습.md",
+                "file": "AI/RAG/RAG - LLM의 한계를 극복하는 혁신적인 기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마크다운 연습.md",
+                "file": "AI/RAG/RAG - LLM의 한계를 극복하는 혁신적인 기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마크다운 연습.md"
+                "file": "AI/RAG/RAG - LLM의 한계를 극복하는 혁신적인 기술.md"
               }
             }
           },
@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +163,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4a5036b380a0a04",
+  "active": "4275ee1013495d71",
   "lastOpenFiles": [
-    "무제 폴더",
-    "마크다운 연습.md",
+    "AI/RAG/RAG - LLM의 한계를 극복하는 혁신적인 기술.md",
+    "AI/RAG/임베딩.md",
+    "AI/무제 파일.md",
+    "AI/RAG",
+    "AI",
+    "MarkDown",
+    "MarkDown/마크다운 연습.md",
+    "Tags",
+    "무제 파일 1.md",
+    ".md",
+    "RAG.md",
+    "dkssud.md",
+    "무제 파일 4.md",
+    "asdfddd.md",
+    "무제 파일 3.md",
+    "무제 파일 6.md",
+    "무제 파일 10.md",
+    "무제 파일 9.md",
+    "무제 파일 8.md",
+    "무제 파일 7.md",
+    "무제 파일 5.md",
+    "Java",
+    "Spring",
+    "무제 파일.canvas",
     "create a link.md",
     "Welcome.md",
     "Spring"
