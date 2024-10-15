@@ -1,3 +1,6 @@
+
+![[Pasted image 20241015125056.png]]
+
 이번에 **캡스톤디자인 프로젝트**를 진행하면서 **LangChain**의 **RAG(Retrieval-Augmented Generation)** 기술을 사용하여 다양한 학습을 경험했습니다. 이 글에서는 RAG의 등장 이유와 RAG의 개념, 작동 원리에 대해 소개하고자 합니다.
 
 ## 1. LLM의 한계
