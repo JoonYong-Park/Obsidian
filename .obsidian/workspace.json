@@ -11,13 +11,14 @@
             "id": "625326bdbc3c2e42",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/AWS 루트 사용자 vs IAM 사용자.md",
-                "staged": false
+                "file": "기타/신입.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (AWS 루트 사용자 vs IAM 사용자)"
+              "icon": "lucide-file",
+              "title": "신입"
             }
           }
         ]
