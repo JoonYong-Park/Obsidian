@@ -11,14 +11,13 @@
             "id": "625326bdbc3c2e42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "기타/신입.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "신입"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -185,6 +184,9 @@
   },
   "active": "625326bdbc3c2e42",
   "lastOpenFiles": [
+    "DevOps/AWS/AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
+    "Pasted image 20241224234819.png",
+    "기타/신입.md",
     "DevOps/AWS/AWS 루트 사용자 vs IAM 사용자.md",
     "AI/RAG/기타/RAG 아키텍처 구성.md",
     "커밋 유형.md",
@@ -214,10 +216,8 @@
     "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
     "Side Project/꾸준하게 아이디어를 찾는 습관.md",
     "기타/마크다운 연습.md",
-    "기타/신입.md",
     "AI/Google Generative AI",
     "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
-    "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
     "Spring",
     "GDG Campus",
     "PNG/Pasted image 20241023235029.png",
@@ -226,7 +226,6 @@
     "PNG/Pasted image 20241019175347.png",
     "PNG/Pasted image 20241019174857.png",
     "PNG/Pasted image 20241019174743.png",
-    "PNG/Pasted image 20241019171335.png",
     "AI/RAG/기타",
     "Side Project",
     "DevOps",
