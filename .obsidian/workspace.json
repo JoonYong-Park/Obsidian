@@ -11,13 +11,14 @@
             "id": "625326bdbc3c2e42",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Side Project/Flip/소셜 로그인 RestTemplate.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "소셜 로그인 RestTemplate"
             }
           }
         ]
@@ -184,18 +185,24 @@
   },
   "active": "625326bdbc3c2e42",
   "lastOpenFiles": [
+    "AI/RAG/기타/가상환경 만들기.md",
+    "Side Project/Flip/소셜 로그인 RestTemplate.md",
+    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
+    "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
+    "커밋 유형.md",
+    "PNG/Pasted image 20241224234819.png",
+    "PNG/Pasted image 20241216054547.png",
+    "PNG/Pasted image 20241211233250.png",
+    "Side Project/꾸준하게 아이디어를 찾는 습관.md",
+    "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
+    "Side Project/Flip",
     "DevOps/AWS/AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
-    "Pasted image 20241224234819.png",
     "기타/신입.md",
     "DevOps/AWS/AWS 루트 사용자 vs IAM 사용자.md",
     "AI/RAG/기타/RAG 아키텍처 구성.md",
-    "커밋 유형.md",
-    "Pasted image 20241216054547.png",
-    "Pasted image 20241211233250.png",
     "DevOps/AWS",
     "AI/RAG/기타/Flask RAG Server 가이드(리드미).md",
     "AI/RAG/기타/flask.md",
-    "AI/RAG/기타/가상환경 만들기.md",
     "AI/RAG/기타/RAG 노트.md",
     "AI/RAG/기타/RAG의 답변.md",
     "GDG Campus/Spring AI.md",
@@ -213,11 +220,7 @@
     "Flask",
     "GDG Campus/BackEnd Study 1.md",
     "AI/Multimodal RAG",
-    "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
-    "Side Project/꾸준하게 아이디어를 찾는 습관.md",
-    "기타/마크다운 연습.md",
     "AI/Google Generative AI",
-    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
     "Spring",
     "GDG Campus",
     "PNG/Pasted image 20241023235029.png",
@@ -228,7 +231,6 @@
     "PNG/Pasted image 20241019174743.png",
     "AI/RAG/기타",
     "Side Project",
-    "DevOps",
     "무제 파일.canvas"
   ]
 }
