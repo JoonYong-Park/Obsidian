@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Project/Flip/소셜 로그인 RestTemplate.md",
+                "file": "Side Project/Flip/계정 신고.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소셜 로그인 RestTemplate"
+              "title": "계정 신고"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "625326bdbc3c2e42",
   "lastOpenFiles": [
-    "AI/RAG/기타/가상환경 만들기.md",
     "Side Project/Flip/소셜 로그인 RestTemplate.md",
+    "Side Project/Flip/계정 신고.md",
+    "AI/RAG/기타/가상환경 만들기.md",
     "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
     "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
     "커밋 유형.md",
@@ -218,7 +219,6 @@
     "AI/RAG/기타/RAG 시스템에서의 선택 사항.md",
     "GDG Campus/BackEnd Study.md",
     "Flask",
-    "GDG Campus/BackEnd Study 1.md",
     "AI/Multimodal RAG",
     "AI/Google Generative AI",
     "Spring",
