@@ -183,16 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1ff78ab4011e1b",
+  "active": "625326bdbc3c2e42",
   "lastOpenFiles": [
-    "Side Project/Flip/TODO.md",
+    "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
+    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
     "Side Project/Flip/API/Flip API 목록.md",
+    "Side Project/Flip/TODO.md",
     "Side Project/Flip/API/소셜 로그인 RestTemplate.md",
     "Side Project/Flip/API/계정 신고.md",
     "Side Project/Flip/API",
     "AI/RAG/기타/가상환경 만들기.md",
-    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
-    "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
     "커밋 유형.md",
     "PNG/Pasted image 20241224234819.png",
     "PNG/Pasted image 20241216054547.png",
