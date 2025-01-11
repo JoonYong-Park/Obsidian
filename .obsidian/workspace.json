@@ -25,13 +25,14 @@
             "id": "4819f067f1e9a4a5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
-                "staged": false
+                "file": "Side Project/Flip/API/Flip API 목록.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (무제 파일)"
+              "icon": "lucide-file",
+              "title": "Flip API 목록"
             }
           }
         ],
@@ -197,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1ff78ab4011e1b",
+  "active": "4819f067f1e9a4a5",
   "lastOpenFiles": [
+    "Side Project/Flip/TODO.md",
     "무제 파일.md",
     "Side Project/Flip/API/Flip API 목록.md",
     "Side Project/Flip/API/스프린트 목록.md",
@@ -206,7 +208,6 @@
     "Pasted image 20250106235458.png",
     "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
     "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
-    "Side Project/Flip/TODO.md",
     "Side Project/Flip/API/계정 신고.md",
     "Side Project/Flip/API",
     "AI/RAG/기타/가상환경 만들기.md",
