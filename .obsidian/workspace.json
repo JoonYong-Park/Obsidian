@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Project/Flip/API/Flip API 목록.md",
+                "file": "DevOps/AWS/배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flip API 목록"
+              "title": "배포(Deployment)와 AWS EC2 서버 배포의 필수 개념"
             }
           }
         ],
@@ -198,11 +198,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4819f067f1e9a4a5",
+  "active": "9e1ff78ab4011e1b",
   "lastOpenFiles": [
+    "Pasted image 20250112215553.png",
+    "Pasted image 20250112215517.png",
+    "Side Project/Flip/API/Flip API 목록.md",
+    "DevOps/AWS/배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "Side Project/Flip/TODO.md",
     "무제 파일.md",
-    "Side Project/Flip/API/Flip API 목록.md",
     "Side Project/Flip/API/스프린트 목록.md",
     "Side Project/Flip/API/소셜 로그인 RestTemplate.md",
     "Pasted image 20250106235458.png",
@@ -231,8 +234,6 @@
     "AI/RAG/4. 검색 방법 및 유형에 대한 소개.md",
     "AI/RAG/3. 임베딩과 벡터, 유사도 측정 - 자연어 처리의 핵심 개념.md",
     "AI/RAG/1. RAG - LLM의 한계를 극복.md",
-    "AI/RAG/2. 청킹(Chunking)이란 무엇인가.md",
-    "AI/RAG/기타/Re-ranking.md",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
@@ -244,7 +245,6 @@
     "PNG/Pasted image 20241019171300.png",
     "PNG/Pasted image 20241019175646.png",
     "PNG/Pasted image 20241019175347.png",
-    "PNG/Pasted image 20241019174857.png",
     "AI/RAG/기타",
     "무제 파일.canvas"
   ]
