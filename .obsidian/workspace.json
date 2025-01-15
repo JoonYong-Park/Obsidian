@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/Spring Boot AWS EC2에 배포하기.md",
+                "file": "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot AWS EC2에 배포하기"
+              "title": "5. Spring Boot AWS EC2에 배포하기"
             }
           }
         ],
@@ -198,11 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4819f067f1e9a4a5",
+  "active": "9e1ff78ab4011e1b",
   "lastOpenFiles": [
-    "DevOps/AWS/AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
-    "DevOps/AWS/Spring Boot AWS EC2에 배포하기.md",
-    "DevOps/AWS/배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
+    "DevOps/AWS/4. AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
+    "DevOps/AWS/3. 배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
+    "DevOps/AWS/2. AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
+    "DevOps/AWS/1. AWS 루트 사용자 vs IAM 사용자.md",
+    "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
     "Pasted image 20250112215553.png",
     "Pasted image 20250112215517.png",
     "Side Project/Flip/API/Flip API 목록.md",
@@ -223,9 +225,7 @@
     "Side Project/꾸준하게 아이디어를 찾는 습관.md",
     "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
     "Side Project/Flip",
-    "DevOps/AWS/AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
     "기타/신입.md",
-    "DevOps/AWS/AWS 루트 사용자 vs IAM 사용자.md",
     "AI/RAG/기타/RAG 아키텍처 구성.md",
     "DevOps/AWS",
     "AI/RAG/기타/Flask RAG Server 가이드(리드미).md",
