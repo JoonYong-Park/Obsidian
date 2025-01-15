@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
+                "file": "DevOps/AWS/Spring Boot AWS EC2에 배포하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지"
+              "title": "Spring Boot AWS EC2에 배포하기"
             }
           }
         ],
@@ -198,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1ff78ab4011e1b",
+  "active": "4819f067f1e9a4a5",
   "lastOpenFiles": [
-    "DevOps/AWS/배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "DevOps/AWS/AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
+    "DevOps/AWS/Spring Boot AWS EC2에 배포하기.md",
+    "DevOps/AWS/배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "Pasted image 20250112215553.png",
     "Pasted image 20250112215517.png",
     "Side Project/Flip/API/Flip API 목록.md",
@@ -234,7 +235,6 @@
     "GDG Campus/Spring AI.md",
     "AI/RAG/4. 검색 방법 및 유형에 대한 소개.md",
     "AI/RAG/3. 임베딩과 벡터, 유사도 측정 - 자연어 처리의 핵심 개념.md",
-    "AI/RAG/1. RAG - LLM의 한계를 극복.md",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
