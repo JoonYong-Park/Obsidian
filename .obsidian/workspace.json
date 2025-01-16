@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
+                "file": "DevOps/AWS/AWS Route 53과 DNS의 개념 및 현업에서의 활용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Spring Boot AWS EC2에 배포하기"
+              "title": "AWS Route 53과 DNS의 개념 및 현업에서의 활용"
             }
           }
         ],
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 327.5
   },
   "right": {
     "id": "641a5e790525f474",
@@ -200,11 +200,12 @@
   },
   "active": "9e1ff78ab4011e1b",
   "lastOpenFiles": [
+    "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
+    "DevOps/AWS/AWS Route 53과 DNS의 개념 및 현업에서의 활용.md",
     "DevOps/AWS/4. AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
     "DevOps/AWS/3. 배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "DevOps/AWS/2. AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
     "DevOps/AWS/1. AWS 루트 사용자 vs IAM 사용자.md",
-    "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
     "Pasted image 20250112215553.png",
     "Pasted image 20250112215517.png",
     "Side Project/Flip/API/Flip API 목록.md",
@@ -234,7 +235,6 @@
     "AI/RAG/기타/RAG의 답변.md",
     "GDG Campus/Spring AI.md",
     "AI/RAG/4. 검색 방법 및 유형에 대한 소개.md",
-    "AI/RAG/3. 임베딩과 벡터, 유사도 측정 - 자연어 처리의 핵심 개념.md",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
