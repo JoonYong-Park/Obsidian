@@ -25,13 +25,14 @@
             "id": "4819f067f1e9a4a5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "기타/리드미.md",
-                "staged": false
+                "file": "기타/Introduce yourself.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (리드미)"
+              "icon": "lucide-file",
+              "title": "Introduce yourself"
             }
           }
         ],
@@ -197,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e1ff78ab4011e1b",
+  "active": "4819f067f1e9a4a5",
   "lastOpenFiles": [
+    "기타/Introduce yourself.md",
     "기타/리드미.md",
     "Side Project/Flip/TODO.md",
     "Side Project/Flip/o.md",
@@ -235,7 +237,6 @@
     "기타/신입.md",
     "AI/RAG/기타/RAG 아키텍처 구성.md",
     "DevOps/AWS",
-    "AI/RAG/기타/Flask RAG Server 가이드(리드미).md",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
