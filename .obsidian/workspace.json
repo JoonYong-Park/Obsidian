@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Project/Flip/API/Flip API 목록.md",
+                "file": "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flip API 목록"
+              "title": "Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리"
             }
           },
           {
             "id": "4819f067f1e9a4a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "DevOps/AWS/ELB(Elastic Load Balancer)와 HTTPS - 웹 아키텍처의 보안과 확장성 향상.md",
-                "mode": "source",
-                "source": false
+                "file": "기타/리드미.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "ELB(Elastic Load Balancer)와 HTTPS - 웹 아키텍처의 보안과 확장성 향상"
+              "icon": "git-pull-request",
+              "title": "Diff View (리드미)"
             }
           }
         ],
@@ -198,54 +197,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4819f067f1e9a4a5",
+  "active": "9e1ff78ab4011e1b",
   "lastOpenFiles": [
-    "DevOps/AWS/AWS Route 53과 DNS의 개념 및 현업에서의 활용.md",
+    "기타/리드미.md",
+    "Side Project/Flip/TODO.md",
+    "Side Project/Flip/o.md",
+    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
+    "Side Project/Flip/API/Flip API 목록.md",
+    "GDG Campus/Spring AI.md",
+    "Side Project/BumperCar/교통사고 상황 리스트.md",
+    "Algorithm/공부 방법/무제 파일.md",
+    "Side Project/Flip/API/스프린트 목록.md",
+    "Side Project/Flip/API/소셜 로그인 RestTemplate.md",
+    "Side Project/Flip/API/계정 신고.md",
+    "Side Project/꾸준하게 아이디어를 찾는 습관.md",
+    "Algorithm/공부 방법",
+    "Algorithm",
+    "기타/커밋 유형.md",
+    "PNG/Pasted image 20250106235458.png",
     "DevOps/AWS/ELB(Elastic Load Balancer)와 HTTPS - 웹 아키텍처의 보안과 확장성 향상.md",
+    "DevOps/AWS/AWS Route 53과 DNS의 개념 및 현업에서의 활용.md",
     "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
     "DevOps/AWS/4. AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
     "DevOps/AWS/3. 배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "DevOps/AWS/2. AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
     "DevOps/AWS/1. AWS 루트 사용자 vs IAM 사용자.md",
-    "Pasted image 20250112215553.png",
-    "Pasted image 20250112215517.png",
-    "Side Project/Flip/API/Flip API 목록.md",
-    "Side Project/Flip/TODO.md",
-    "무제 파일.md",
-    "Side Project/Flip/API/스프린트 목록.md",
-    "Side Project/Flip/API/소셜 로그인 RestTemplate.md",
-    "Pasted image 20250106235458.png",
+    "PNG/Pasted image 20250112215553.png",
+    "PNG/Pasted image 20250112215517.png",
     "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
-    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
-    "Side Project/Flip/API/계정 신고.md",
     "Side Project/Flip/API",
     "AI/RAG/기타/가상환경 만들기.md",
-    "커밋 유형.md",
     "PNG/Pasted image 20241224234819.png",
     "PNG/Pasted image 20241216054547.png",
     "PNG/Pasted image 20241211233250.png",
-    "Side Project/꾸준하게 아이디어를 찾는 습관.md",
     "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
     "Side Project/Flip",
     "기타/신입.md",
     "AI/RAG/기타/RAG 아키텍처 구성.md",
     "DevOps/AWS",
     "AI/RAG/기타/Flask RAG Server 가이드(리드미).md",
-    "AI/RAG/기타/flask.md",
-    "AI/RAG/기타/RAG 노트.md",
-    "AI/RAG/기타/RAG의 답변.md",
-    "GDG Campus/Spring AI.md",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
     "AI/Multimodal RAG",
     "AI/Google Generative AI",
     "Spring",
-    "GDG Campus",
     "PNG/Pasted image 20241023235029.png",
     "PNG/Pasted image 20241019171300.png",
     "PNG/Pasted image 20241019175646.png",
-    "AI/RAG/기타",
     "무제 파일.canvas"
   ]
 }
