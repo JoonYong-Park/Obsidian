@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Introduce yourself.md",
+                "file": "기타/취업/신입.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduce yourself"
+              "title": "신입"
             }
           }
         ],
@@ -200,8 +200,13 @@
   },
   "active": "4819f067f1e9a4a5",
   "lastOpenFiles": [
-    "기타/Introduce yourself.md",
-    "기타/리드미.md",
+    "기타/개발/리드미.md",
+    "기타/개발/커밋 유형.md",
+    "기타/개발",
+    "기타/취업/신입.md",
+    "기타/개발/마크다운 연습.md",
+    "기타/취업/Introduce yourself.md",
+    "기타/취업",
     "Side Project/Flip/TODO.md",
     "Side Project/Flip/o.md",
     "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
@@ -215,7 +220,6 @@
     "Side Project/꾸준하게 아이디어를 찾는 습관.md",
     "Algorithm/공부 방법",
     "Algorithm",
-    "기타/커밋 유형.md",
     "PNG/Pasted image 20250106235458.png",
     "DevOps/AWS/ELB(Elastic Load Balancer)와 HTTPS - 웹 아키텍처의 보안과 확장성 향상.md",
     "DevOps/AWS/AWS Route 53과 DNS의 개념 및 현업에서의 활용.md",
@@ -232,17 +236,12 @@
     "PNG/Pasted image 20241224234819.png",
     "PNG/Pasted image 20241216054547.png",
     "PNG/Pasted image 20241211233250.png",
-    "Side Project/사이드 프로젝트 지켜야 할 3가지.md",
     "Side Project/Flip",
-    "기타/신입.md",
-    "AI/RAG/기타/RAG 아키텍처 구성.md",
     "DevOps/AWS",
     "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
     "AI/Multimodal RAG",
-    "AI/Google Generative AI",
-    "Spring",
     "PNG/Pasted image 20241023235029.png",
     "PNG/Pasted image 20241019171300.png",
     "PNG/Pasted image 20241019175646.png",
