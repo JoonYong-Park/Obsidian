@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4e942ca3ad1d3e",
+        "id": "56cea99a63df4738",
         "type": "tabs",
         "children": [
           {
-            "id": "4819f067f1e9a4a5",
+            "id": "0fd861e6ae94ba98",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "image",
               "state": {
-                "file": "Algorithm/공부 방법/무제 파일.md",
-                "staged": false
+                "file": "PNG/Pasted image 20250122155503.png"
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (무제 파일)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250122155503"
             }
           }
         ]
@@ -182,20 +181,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4819f067f1e9a4a5",
+  "active": "0fd861e6ae94ba98",
   "lastOpenFiles": [
-    "Algorithm/공부 방법/알고리즘 공부.md",
-    "기타/취업/부트캠프.md",
-    "Pasted image 20250122155503.png",
-    "Pasted image 20250122145521.png",
-    "Pasted image 20250122145515.png",
-    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
+    "PNG/Pasted image 20250122145515.png",
+    "Pasted image 20250128215259.png",
+    "PNG/Pasted image 20250122155503.png",
+    "기타/취업/담당업무 및 자격요건.md",
     "기타/취업/신입.md",
     "기타/취업/Introduce yourself.md",
+    "무제 파일.md",
     "기타/개발/리드미.md",
-    "기타/개발/커밋 유형.md",
-    "기타/개발",
     "기타/개발/마크다운 연습.md",
+    "기타/개발/커밋 유형.md",
+    "기타/취업/부트캠프.md",
+    "Algorithm/공부 방법/알고리즘 공부.md",
+    "PNG/Pasted image 20250122145521.png",
+    "Spring/Command-Query Separation (CQS) 패턴을 활용한 서비스 레이어 분리.md",
+    "기타/개발",
     "기타/취업",
     "Side Project/Flip/TODO.md",
     "Side Project/Flip/o.md",
@@ -215,17 +217,14 @@
     "DevOps/AWS/4. AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
     "DevOps/AWS/3. 배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
     "DevOps/AWS/2. AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
-    "DevOps/AWS/1. AWS 루트 사용자 vs IAM 사용자.md",
     "PNG/Pasted image 20250112215553.png",
     "PNG/Pasted image 20250112215517.png",
-    "Spring/Command-Query Separation(CQS)와 Command-Query Responsibility Segregation(CQRS) 패턴 차이 및 적용 사례.md",
     "Side Project/Flip/API",
     "PNG/Pasted image 20241224234819.png",
     "PNG/Pasted image 20241216054547.png",
     "PNG/Pasted image 20241211233250.png",
     "Side Project/Flip",
     "DevOps/AWS",
-    "PNG/RAG.png",
     "Side Project/BumperCar",
     "Flask",
     "AI/Multimodal RAG",
