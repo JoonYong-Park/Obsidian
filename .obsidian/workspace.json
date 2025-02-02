@@ -11,12 +11,14 @@
             "id": "0fd861e6ae94ba98",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PNG/Pasted image 20250122155503.png"
+                "file": "AI/LLM/LLM 모델과 에이전트의 차이점.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250122155503"
+              "icon": "lucide-file",
+              "title": "LLM 모델과 에이전트의 차이점"
             }
           }
         ]
@@ -183,12 +185,15 @@
   },
   "active": "0fd861e6ae94ba98",
   "lastOpenFiles": [
-    "PNG/Pasted image 20250122145515.png",
-    "Pasted image 20250128215259.png",
-    "PNG/Pasted image 20250122155503.png",
-    "기타/취업/담당업무 및 자격요건.md",
+    "AI/LLM/LLM 모델과 에이전트의 차이점.md",
+    "AI/LLM",
+    "AI/무제 파일.md",
     "기타/취업/신입.md",
     "기타/취업/Introduce yourself.md",
+    "기타/취업/담당업무 및 자격요건.md",
+    "PNG/Pasted image 20250122155503.png",
+    "PNG/Pasted image 20250122145515.png",
+    "Pasted image 20250128215259.png",
     "무제 파일.md",
     "기타/개발/리드미.md",
     "기타/개발/마크다운 연습.md",
@@ -216,7 +221,6 @@
     "DevOps/AWS/5. Spring Boot AWS EC2에 배포하기.md",
     "DevOps/AWS/4. AWS EC2 설정 가이드- 리전 선택부터 보안 설정까지.md",
     "DevOps/AWS/3. 배포(Deployment)와 AWS EC2 서버 배포의 필수 개념.md",
-    "DevOps/AWS/2. AWS IAM 이해하기 - 사용자, 그룹, 역할의 차이점과 권한 관리.md",
     "PNG/Pasted image 20250112215553.png",
     "PNG/Pasted image 20250112215517.png",
     "Side Project/Flip/API",
@@ -227,7 +231,6 @@
     "DevOps/AWS",
     "Side Project/BumperCar",
     "Flask",
-    "AI/Multimodal RAG",
     "무제 파일.canvas"
   ]
 }
